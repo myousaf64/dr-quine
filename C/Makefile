@@ -1,6 +1,6 @@
 CC		= clang
 CFLAGS	= -Wall -Wextra -Werror
-NAMES	= Colleen
+NAMES	= Colleen Grace Sully
 
 PHONY += all
 all: $(NAMES)
