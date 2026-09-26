@@ -1,5 +1,5 @@
 RC		= rustc
-NAMES	= Colleen
+NAMES	= Colleen Grace Sully
 
 PHONY += all
 all: $(NAMES)
