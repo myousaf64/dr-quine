@@ -1,7 +1,7 @@
 NASM	= nasm
 NFLAGS	= -f elf64
 CC		= gcc
-NAMES	= Colleen Grace
+NAMES	= Colleen Grace Sully
 
 PHONY += all
 all: $(NAMES)
