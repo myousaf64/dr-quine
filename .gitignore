@@ -1,0 +1,9 @@
+subject.pdf
+meta.json
+t/
+*.o
+Grace_kid.*
+Sully_*
+/*/Colleen
+/*/Grace
+/*/Sully
